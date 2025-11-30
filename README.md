@@ -1,10 +1,4 @@
-Absolutely! Here is a **professional README.md** tailored exactly to the files in your Week 2 folder and the assignment requirements. You can **copy–paste directly** into your repo 📌
 
----
-
-### 📌 *README.md — Retail Sales Database Project*
-
-```markdown
 # 🛍 Retail Sales Database — Design & Analytics
 
 This project focuses on converting an Amazon retail sales dataset into a **normalized relational database** and performing **analytical SQL queries** to uncover business insights.
@@ -104,17 +98,3 @@ These insights can support targeted promotions and stock planning.
 3. View `ER Diagram.png` and screenshots for query evidence
 
 ---
-
-## 🙌 Author
-
-**Sai Sri Satya Padala**  
-Week 2 — Retail Sales Database Analysis  
-Blend360 Training Program
-
----
-
-### 📌 Status: Completed ✔  
-```
-
----
- 
