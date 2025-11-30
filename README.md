@@ -48,8 +48,8 @@ Ensures:
 
 > Full ERD available in `ER Diagram.png`
 
-
-![ER Diagram](ER Diagram.png)
+ 
+![ER Diagram](https://github.com/satya-blend360/Assignment_SQL_Week2/blob/main/ER%20Diagram.png)
 
 
 Tables & relationships:
