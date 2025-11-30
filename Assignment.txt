@@ -1,0 +1,21 @@
+Design and Query a Retail Sales Database
+
+Goal:
+    Convert the dataset into a relational database schema and perform analytical queries.
+Tasks:
+    Design tables: Customers, Products, Orders, OrderDetails.
+
+    Normalize to 3NF and draw an ER diagram.
+
+    Write queries for:
+        Top-selling product by month.
+        Sales by region using JOIN + GROUP BY.
+        Customers with total spend > threshold (use subqueries).
+
+    (Optional) Implement using SQLite or MySQL.
+
+Tech: SQL, MySQL / PostgreSQL / SQLite
+
+Deliverables: .sql schema, ER diagram, query outputs + screenshots (ER diagram, query results, console output)
+
+Dataset: https://wgcp-my.sharepoint.com/:f:/g/personal/ritish_jogi_blend360_com/EmxzwFjNkaxPuCw2mQ0abr0BGg6XzIPlj22VogFVtQniyg?e=aglSyr
