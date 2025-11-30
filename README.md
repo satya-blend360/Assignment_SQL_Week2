@@ -5,7 +5,7 @@ This project focuses on converting an Amazon retail sales dataset into a **norma
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Convert cleaned retail dataset into a **relational database schema**
 - Normalize data into **3rd Normal Form (3NF)**
@@ -29,7 +29,7 @@ This project focuses on converting an Amazon retail sales dataset into a **norma
 
 ---
 
-## 🧱 Database Design (3NF)
+## Database Design (3NF)
 
 Normalized tables created:
 - **Customers**
@@ -44,7 +44,7 @@ Ensures:
 
 ---
 
-## 🧩 ER Diagram
+## ER Diagram
 
 > Full ERD available in `ER Diagram.png`
 
@@ -57,7 +57,7 @@ Customers 1 ────∞ Orders 1 ────∞ OrderDetails ∞───�
 
 ---
 
-## 📊 Analytical SQL Queries
+## Analytical SQL Queries
 
 ✔ Top-selling product by month  
 ✔ Sales by region using JOIN + GROUP BY  
@@ -70,7 +70,7 @@ Results are available as screenshots:
 
 ---
 
-## 🔍 Tools & Technologies Used
+## Tools & Technologies Used
 
 | Component | Technology |
 |----------|------------|
@@ -81,7 +81,7 @@ Results are available as screenshots:
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 - Product sales volumes peak in specific months for top categories
 - Maharashtra & Karnataka lead in total order revenue
@@ -91,7 +91,7 @@ These insights can support targeted promotions and stock planning.
 
 ---
 
-## 🚀 How to Review the Project
+## How to Review the Project
 
 1. Open `sql_queries.ipynb` to view database creation and query execution
 2. Explore `sales.db` using any SQLite viewer (DBeaver, DB Browser)
