@@ -48,6 +48,10 @@ Ensures:
 
 > Full ERD available in `ER Diagram.png`
 
+
+![ER Diagram](ER Diagram.png)
+
+
 Tables & relationships:
 ```
 
