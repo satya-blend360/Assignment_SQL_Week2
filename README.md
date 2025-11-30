@@ -62,11 +62,20 @@ Customers 1 ────∞ Orders 1 ────∞ OrderDetails ∞───�
 ✔ Top-selling product by month  
 ✔ Sales by region using JOIN + GROUP BY  
 ✔ Customers with total spend > threshold using HAVING clause  
+ 
 
-Results are available as screenshots:
-- `Query1.jpg`
-- `Query2.jpg`
-- `Query3.jpg`
+## Query Results
+
+### Top Selling Products
+![Query 1](Query1.jpg)
+
+### Sales by Region
+![Query 2](Query2.jpg)
+
+### High Value Customers
+![Query 3](Query3.jpg)
+
+
 
 ---
 
